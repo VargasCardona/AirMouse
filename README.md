@@ -17,8 +17,8 @@ Computer vision application that enables natural interaction with digital interf
 ## Optimizations
 
 - Use of optimized computer vision algorithms and libraries (e.g., OpenCV, Mediapipe, TensorFlow) for efficient hand detection, tracking, and pose estimation.
-- Separate the computer vision pipeline (hand detection, tracking, and pose estimation) from the cursor movement or interaction logic.
-- Once the hand is detected, focus the computer vision processing on a region of interest (ROI) around the hand, rather than processing the entire camera frame.
+- Separation of the computer vision pipeline (hand detection, tracking, and pose estimation) from the cursor movement or interaction logic.
+- Region of interest (ROI) around the hand, rather than processing the entire camera frame.
 
 
 ## Tech Stack
